@@ -16,6 +16,5 @@ Visualizations for these data might fall into two categories, the second of whic
 You can find the work in progress demo [here](http://auremoser.github.io/VitalSigns-soil/).
 
 It should look something like this:
-<<<<<<< HEAD
 ![Soil Chem Bar](https://raw.githubusercontent.com/auremoser/VitalSigns-soil/gh-pages/assets/soil-bar.png)
 
