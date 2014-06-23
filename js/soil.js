@@ -4,6 +4,10 @@ var categories = [],
     totalNitrogenSeries = [];
 
 var options = {
+    colors: [
+        // colors taken from the palette on this site: http://vitalsigns.org/
+         '#FFCC33', '#4E733D', '#C04420', '#6E9962', '#9DCBDA', '#FBD8DB', '#fc8d59'
+    ],
 	title: {
         text: 'Soil Data'
     },
@@ -47,7 +51,7 @@ var options = {
     }
 };
 
-$.get('data/soil data/soil-carbon-nitrogen-lab-tests.csv', function(data) {
+$.get('data/soil_data/soil-carbon-nitrogen-lab-tests.csv', function(data) {
 
     var lines = data.split('\n');
 
