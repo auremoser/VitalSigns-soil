@@ -3,9 +3,8 @@
 soil chemicals (acidified carbon, total carbon, total nitrogen) by plot + sample ID
 
 ### Description
-* This map provices a breakdown of soil chemicals (acidified carbon, total carbon, total nitrogen) by plot + sample ID
+* This map provides a breakdown of soil chemicals (acidified carbon, total carbon, total nitrogen) by plot + sample ID
 * The data is available in as a csv (located in the `data/soil_data` folder).
-
 
 ### Next steps
 Visualizations for these data might fall into two categories, the second of which is visualized here.
