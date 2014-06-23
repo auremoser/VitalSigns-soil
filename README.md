@@ -3,16 +3,10 @@
 soil chemicals (acidified carbon, total carbon, total nitrogen) by plot + sample ID
 
 ### Description
-<<<<<<< HEAD
 * This map provides a breakdown of soil chemicals (acidified carbon, total carbon, total nitrogen) by plot + sample ID
 * The data is available in as a csv (located in the `data/soil_data` folder).
 
-=======
-* This map provices a breakdown of soil chemicals (acidified carbon, total carbon, total nitrogen) by plot + sample ID
-* The data is available in as a csv (located in the `data/soil_data` folder).
 
-
->>>>>>> 5aaf444c331244e9256a7da3fa2590b96be2dc71
 ### Next steps
 Visualizations for these data might fall into two categories, the second of which is visualized here.
 * Cat-1: Maps to illustrate where the plots fall and show correlation to other mapped data
@@ -24,7 +18,4 @@ You can find the work in progress demo [here](http://auremoser.github.io/VitalSi
 It should look something like this:
 <<<<<<< HEAD
 ![Soil Chem Bar](https://raw.githubusercontent.com/auremoser/VitalSigns-soil/gh-pages/assets/soil-bar.png)
-=======
-![Eplot Points](https://raw.githubusercontent.com/auremoser/VitalSigns-eplots/master/assets/eplot-points.png)
->>>>>>> 5aaf444c331244e9256a7da3fa2590b96be2dc71
 
